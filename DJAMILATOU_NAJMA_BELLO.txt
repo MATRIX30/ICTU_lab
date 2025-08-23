@@ -1,0 +1,3 @@
+Name= DJAMILATOU_NAJMA_BELLO
+Matricule= ICTU20241950
+Specialty= Software_Engineering

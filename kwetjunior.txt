@@ -1,0 +1,3 @@
+name:kwete ngnouba junior rayan
+matricle:ICTU20241377
+specialty:software engineer 
